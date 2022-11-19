@@ -28,7 +28,7 @@ def main():
             2: ["La velocidad inicial es:",calcular_velocidad_inicial, "m/s"],
             3: ["La velocidad final es:",calcular_velocidad_final, "m/s"],
             4: ["El tiempo es:", calcular_tiempo, "s"],
-            5: ["La aceleracion es:",calcular_aceleracion, "m/s^2"]
+            5: ["La aceleracion es:",calcular_aceleracion, "m/s²"]
         }
 
         os.system("cls")
